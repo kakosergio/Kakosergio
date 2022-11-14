@@ -12,9 +12,9 @@ Meu nome é **SÉRGIO RICARDO R. TEIXEIRA**, AKA **KAKO** trabalho com programa�
 ------------
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kakoteixeira&show_icons=true&locale=en" alt="kakoteixeira" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kakosergio&show_icons=true&locale=en" alt="kakosergio" /></p>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=kakoteixeira)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=kakosergio)
 <!---
 Senrathy/Senrathy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
